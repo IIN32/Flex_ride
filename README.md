@@ -1,4 +1,4 @@
-# rider_app
+# flex_ride
 
 A new Flutter project.
 
